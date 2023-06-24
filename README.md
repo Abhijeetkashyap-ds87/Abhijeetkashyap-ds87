@@ -1,10 +1,19 @@
 ### Hi there 👋
+###  Abhijeet kashyap
+
+#### About me :
+I am a data science enthusiast fueled by a burning curiosity for unraveling the mysteries hidden within vast amounts of data. I believe that every dataset has a unique tale to tell,With a solid foundation of mathematic and machine learning, I am armed with a relentless dedication to understanding the intricacies of data science, and I am eager to apply my skills as a data scientist to unlock valuable insights and make data-driven decisions that matter.<br>
+I believe that the marriage of mathematics and machine learning holds the power to revolutionize industries, and I am eager to be part of that revolution.
+
+
+
+
 
 <!--
 **Abhijeetkashyap-ds87/Abhijeetkashyap-ds87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- oiergheoigheipgh
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
