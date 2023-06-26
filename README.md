@@ -18,7 +18,7 @@ I believe that the marriage of mathematics and machine learning holds the power 
 * I have a very strong foundation in **PYTHON** , **C++** and **C** language.<br>
 
 > #### SKILLS -: Machine learning || Image processing || Web scrapping || Sql  || Tableau || Data Analysis || Data visualization 
-> LANGUAGE -: PYTHON (**Numpy**,**Pandas**,**Matplotlib**,**Seaborn**,**Plotly**,**Sckit-Learn**,**Beautiful soup**,**Streamlit**),<br>
+> LANGUAGE -: PYTHON (**Numpy**,**Pandas**,**Matplotlib**,**Seaborn**,**Plotly**,**Sckit-Learn**,**Beautiful soup**,**Streamlit**,**selenium**).<br>
                **C++** || **C** Language.
   
 - 📫 How to reach me: [abhijeetkashyapak8789@gmail.com](abhijeetkashyapak8789@gmail.com)
