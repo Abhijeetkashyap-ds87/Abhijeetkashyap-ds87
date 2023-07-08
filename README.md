@@ -12,7 +12,7 @@ I believe that the marriage of mathematics and machine learning holds the power 
 * I possess a strong intuitive and mathematical understanding of various statistical test(**Hypothesis testing**) like(***P-test***,***T-test***,***Chi-square test***,***Omnibus-test*** etc).
 * I am also good in ***Linear algebra***,***Probablity***,***Calculus***,***Resampling techniques***,***feature selection***,***Dimensionality-reduction technique (Bayes optimazation)***.
 * I possess a strong intuitive and mathematical understanding of various machine learning models like (***Linear regression***,**Logistic regression**,***Naive bayes***,***Knn***,***Descision tree***,***Random forest*** etc).
-* In addition to my passion for writing articles, I have actively engaged in **web scraping**, collecting intriguing datasets that I have uploaded to Kaggle.<br>
+* In addition to my passion for writing articles, I have actively engaged in **web scraping**, collecting intriguing datasets that I have uploaded to Kaggle.(**see my repo**)<br>
 * I have good knowledge of **Data base managment** , **SQL**,**API**  and also I develop my own **API**.
 * I am currently engaged in the process of learning **DEEP LEARNING**.
 * I have a very strong foundation in **PYTHON** , **C++** and **C** language.<br>
