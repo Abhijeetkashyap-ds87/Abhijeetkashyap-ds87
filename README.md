@@ -54,6 +54,10 @@ I'm Abhijeet Kashyap, a final-year Computer Science student at IIIT Agartala wit
 <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/BeautifulSoup-DA5B8A?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup" />
 </a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+</a>
+
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </a>
