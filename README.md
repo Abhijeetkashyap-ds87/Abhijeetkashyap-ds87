@@ -1,45 +1,22 @@
-### Hi there 👋 I am Abhijeet kashyap 
-#### About me :
-I am a data science enthusiast fueled by a burning curiosity for unraveling the mysteries hidden within vast amounts of data. I believe that every dataset has a unique tale to tell,With a solid foundation of mathematic and machine learning, I am armed with a relentless dedication to understanding the intricacies of data science, and I am eager to apply my skills as a data scientist to unlock valuable insights and make data-driven decisions that matter.<br>
-I believe that the marriage of mathematics and machine learning holds the power to revolutionize industries, and I am eager to be part of that revolution.
-<br>
-<br>
-<br>
-> some achivments,interest and educational details :
-*  🔭 I am currently in my final year at **IIIT AGT**, pursuing a Computer Science Engineering (CSE) degree.
-*  During my learning journey, I have successfully completed several diverse projects including **Data Anylasis**,**Data Visulazation**,**Machine learning**,**Image processing**,**Web scrapping**,**Tableau**.
-* I find great joy in crafting articles that highlight the crucial role of **INFERENTIAL STATISTICS** in machine learning.
-* I possess a strong intuitive and mathematical understanding of various statistical test(**Hypothesis testing**) like(***P-test***,***T-test***,***Chi-square test***,***Omnibus-test*** etc).
-* I am also good in ***Linear algebra***,***Probablity***,***Calculus***,***Resampling techniques***,***feature selection***,***Dimensionality-reduction technique (Bayes optimazation)***.
-* I possess a strong intuitive and mathematical understanding of various machine learning models like (***Linear regression***,**Logistic regression**,***Naive bayes***,***Knn***,***Descision tree***,***Random forest*** etc).
-* In addition to my passion for writing articles, I have actively engaged in **web scraping**, collecting intriguing datasets that I have uploaded to Kaggle.(**see my repo**)<br>
-* I have good knowledge of **Data base managment** , **SQL**,**API**  and also I develop my own **API**.
-* I am currently engaged in the process of learning **DEEP LEARNING**.
-* I have a very strong foundation in **PYTHON** , **C++** and **C** language.<br>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ABHIJEET KASHYAP
+========================================================================================================================================
 
-> #### SKILLS -: Machine learning || Image processing || Web scrapping || Sql  || Tableau || Data Analysis || Data visualization 
-> LANGUAGE -: PYTHON (**Numpy**,**Pandas**,**Matplotlib**,**Seaborn**,**Plotly**,**Sckit-Learn**,**Beautiful soup**,**Streamlit**,**selenium**).<br>
-               **C++** || **C** Language.
-  
-- 📫 How to reach me: [abhijeetkashyapak8789@gmail.com](abhijeetkashyapak8789@gmail.com)
-  
+ML Enthusiast |Aspiring Data Scientist| Emerging Analyst
+--------------------------------------------------------
 
-#### PROJECT SECTION -:
+I'm Abhijeet Kashyap, a final-year Computer Science student at IIIT Agartala with a deep passion for data science, machine learning, and analytics. My journey in the tech world is driven by a desire to uncover meaningful insights from data and leverage them to create impactful solutions. I'm currently seeking opportunities in roles such as ML Engineer, Data Scientist, Data Analyst, or Business Analyst. I'm eager to apply my skills in real-world scenarios, contribute to innovative projects, and continue my journey of learning and growth in the field of data science.
+
+* ✉️  You can contact me at [abhijeetkashyapak8789@gmail.com](mailto:abhijeetkashyapak8789@gmail.com)
+* 🧠  I'm learning Deep learning
+
+### Skills
 
 
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.xcode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
 
 
-<!--
-**Abhijeetkashyap-ds87/Abhijeetkashyap-ds87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Socials
 
-Here are some ideas to get you started:
-- oiergheoigheipgh
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://www.github.com/Abhijeetkashyap-ds87" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/abhijeet-kashyap-250293233/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
