@@ -6,7 +6,7 @@ I believe that the marriage of mathematics and machine learning holds the power 
 <br>
 <br>
 > some achivments,interest and educational details :
-*  🔭 I am currently in my third year at **IIIT AGT**, pursuing a Computer Science Engineering (CSE) degree.
+*  🔭 I am currently in my final year at **IIIT AGT**, pursuing a Computer Science Engineering (CSE) degree.
 *  During my learning journey, I have successfully completed several diverse projects including **Data Anylasis**,**Data Visulazation**,**Machine learning**,**Image processing**,**Web scrapping**,**Tableau**.
 * I find great joy in crafting articles that highlight the crucial role of **INFERENTIAL STATISTICS** in machine learning.
 * I possess a strong intuitive and mathematical understanding of various statistical test(**Hypothesis testing**) like(***P-test***,***T-test***,***Chi-square test***,***Omnibus-test*** etc).
