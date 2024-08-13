@@ -50,8 +50,8 @@ I'm Abhijeet Kashyap, a final-year Computer Science student at IIIT Agartala wit
 <a href="https://docs.python-requests.org/en/master/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=requests&logoColor=white" alt="Requests" />
 </a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" />
+<a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/BeautifulSoup-DA5B8A?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup" />
 </a>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
@@ -64,6 +64,9 @@ I'm Abhijeet Kashyap, a final-year Computer Science student at IIIT Agartala wit
 </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+</a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" />
 </a>
 </p>
 
